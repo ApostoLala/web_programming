@@ -7,16 +7,16 @@
  <body>
    <ol>
      <li>
-       <label for="name">Your name*</label>
+       <label for="male">Your name*</label>
        <br>
-       <input type="text" name="w" id="name">
+       <input type="text" id="name" name="name" placeholder="Enter your name" required>
      </li><br>
      <li>
        <p>What is your gender?*</p>
        <ul>
          <li>
            <input type="radio" name="gender"
-            id="male" value="male">
+            id="male" name="male" required>
            <label for="male">Male</label>
          </li>
          <li>
@@ -29,7 +29,7 @@
      <li>
        <label for="birthday">Birthday*</label>
        <br>
-       <input type="text" name="w" id="birthday">
+       <input type="text" name="w" id="birthday" placeholder="Enter your birthday" required>
      </li><br>
      <li>
        <p>Which form of transport do you use?*<br>
@@ -127,8 +127,7 @@
        </ol></li><br>
      <li><label for="industry">Which industry do you work in or are most involved with?*</label>
        <br>
-       <input type="text" name="w" id="industry">
-       (Type or select an option)
+       <input type="text" name="w" id="industry" placeholder="Type or select an option" required>
        <ul>
          <li>
            <input type="radio" name="industry"
@@ -175,16 +174,17 @@
      <li>
        <label for="phone">Your phone#</label>
        <br>
-       <input type="text" name="w" id="phone"></li><br>
+       <input type="number" name="w" id="phone" placeholder="Enter your phone number"></li><br>
      <li>
        <label for="email">Email address</label>
        <br>
-       <input type="text" name="w" id="email">
+       <input type="email" name="w" id="email" placeholder="Enter your email address" required>
      </li><br>
      <li>
        <label for="Personal website">Personal website<br>http://</label>
-       <input type="text" name="w" id="Personal website">
+       <input type="url" name="w" id="Personal website" placeholder="Enter yor personal website">
      </li><br>
    </ol>
+ <input type="submit" value="Submit">
  </body>
 </html>
