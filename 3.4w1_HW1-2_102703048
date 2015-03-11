@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>3/4w2_HW1_102703048</title>
+    <h1>
+      <blockquote>
+        <a href="https://www.coursera.org/" target="_blank">coursera</a> 
+      </blockquote>
+    </h1>
+    <nav>
+      <ul>
+        <li><a href="https://www.coursera.org/courses" target="_blank">Course</a></li>
+        <li><a href="https://www.coursera.org/specializations?utm_medium=topnav" target="_blank">Specializations</a></li>
+        <li><a href="https://www.coursera.org/about/partners" target="_blank">Institutions</a></li>
+        <li><a href="About">About</a></li>
+        <li><a href="Log In">Log In</a></li>
+        <li><a href="Sign Up">Sign up</a></li>
+      </ul>        
+    </nav>
+  </head>
+  <body>
+    <article>
+      <header>
+        <h1>
+          <blockquote>
+            <a href="https://www.coursera.org/umich" target="_blank">M(UNIVERSITY OF MICHIGAN)</a>
+          </blockquote>
+        </h1>
+        <h1>
+          <blockquote>
+            Programming for<br>Everybody(Python)
+          </blockquote>
+        </h1>
+        <p>
+          <blockquote>
+            This course aims to teach everyone to learn the basics of programming<br> computers using Python. The course has no pre-requisites and avoids all<br> but the simplest mathematics. Anyone with moderate computer<br> experience should be able to master the materials in this course.
+          </blockquote>
+        </p>
+      <hr>
+      </header>
+      <section>
+        <h1>
+          <blockquote>
+            About the Course
+          </blockquote>
+        </h1>
+        <p>
+          <blockquote>
+            This course is specifically designed to be a first programming course using the popular<br> Python programming language. The pace of the course is designed to lead to mastery<br> of each of the topics in the class. We will use simple data analysis as the programming<br> exercises through the course. Understanding how to process data is valuable for<br> everyone regardless of your career. This course might kindle an interest in more<br> advanced programming courses or courses in web design and development or just<br> provide skills when you are faced with a bunch of data that you need to analyze. You<br> can do the programming assignments for the class using a web browser or using your<br> personal computer. All required software for the course is free. 
+          </blockquote>
+        </p>
+      </section>
+      <br>
+      <section>
+        <h1>
+          <blockquote>
+            Course Syllabus
+          </blockquote>
+        </h1>
+        <ol>
+          <li>Week One: Introduction - Why we program?</li>
+          <li>Week Two: Variables and Expressions</li>
+          <li>Week Three: Conditional code</li>
+          <li>Week Four: Functions</li>
+          <li>Week Five: Loops and Iteration</li>
+          <li>Week Six: Strings</li>
+          <li>Week Seven: Files</li>
+          <li>Week Eight: Lists</li>
+          <li>Week Nine: Dictionaries</li>
+          <li>Week Ten: Tuples</li>
+          <li>Optional Topic: Regular Expressions</li>
+        </ol>
+      </section>
+      <br>
+      <section>
+        <h1>
+          <blockquote>
+            Recommended Background
+          </blockquote>
+        </h1>
+        <p>
+          <blockquote>
+            There are no pre-requisites for this course. We avoid any advanced mathematics. You<br> can do the entire class using a web browser. If you are going to do the programming<br> exercises on your own computer (optional), you should know how to download and<br> install software and be able to make folders and organize files on your computer. We<br> will have detailed instructional videos for both Windows and Macintosh computers for<br> all software installation and file management tasks for those who want to do software<br> development on their computers. All required software for this class is free. 
+          </blockquote>
+        </p>
+      </section>
+      <br>
+      <section>
+        <h1>
+          <blockquote>
+            Suggested Readings
+          </blockquote>
+        </h1>
+        <p>
+          <blockquote>
+            The textbook is titled <a href="http://www.pythonlearn.com/book.php" target="_blank">Python for Informatics: Exploring Information</a>. The book is free to<br> download in all major electronic formats including: PDF, EPUB, MOBI, HTML, and<br> Apple's iBooks. The free iBooks version of the book contains enhanced video materials<br> and exercises built into the book. You can purchase a <a href="http://www.amazon.com/gp/product/1492339245/ref=as_li_ss_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1492339245&linkCode=as2&tag=drchu02-20" target="_blank">printed copy of the book</a> from<br> Amazon for $8.99. It is not necessary to purchase the printed book. All of the book<br> materials are available under a Creative Commons Attribution-<br>NonCommercial 3.0 Unported License.
+          </blockquote>
+        </p>
+      </section>
+      <br>
+      <section>
+        <h1>
+          <blockquote>
+            Course Format
+          </blockquote>
+        </h1>
+        <p>
+          <blockquote>
+            Each week there will be about an hour of lecture material. The ten weeks of the course<br> match the first ten chapters of the book - we cover one chapter per week. Each week<br> there will be some combination of a quiz, programming assignment, and/or an optional<br> extra credit assignment. 
+          </blockquote>
+        </p>
+      </section>
+      <br>
+      <section>
+        <h1>
+          <blockquote>
+            FAQ
+          </blockquote>
+        </h1>
+        <ul>
+          <li><strong>What is different about this class?</strong><br>This class is specifically designed for beginners. The material moves slowly and<br> carefully through the basic ideas and then builds to the point where you are<br> writing programs to solve small but complete problems. We never write a<br> program that is more than 25 lines long. We focus on understanding the<br> concepts rather rushing toward some set of programming skills. There are other<br> classes that push you further and faster - our goal is to prepare so you can<br> succeed in those courses.</li><br>
+          <li><strong>What is the format of the class?</strong><br>An hour or less of video lectures per week and some combination of a quiz,<br> programming assignment, and optional extra credit activity.
+</li><br>
+          <li><strong>Do I need a textbook?</strong><br>The lectures and textbook are very supportive of each other. Sometimes you will<br> learn better from the lecture and other times the textbook will be your most<br> valuable resource. There is no cost for the textbook - you can download it for<br> free and printed copies of the text are available at very low cost if you prefer a<br> printed copy.
+</li><br>
+          <li><strong>What about timing? Can I take this self-paced?</strong><br>Within any week of the course, you can look at the materials and take<br> assessments whenever you have time available, regardless of your time zone.<br> But we will move the course along and there will be due dates for each<br> assessment to keep us all moving forward together. So you can't wait until the<br> last week and do all the material in a day or two. We expect that you will be<br> committed and work on the course each week as you would for any other<br> college class.</li><br>
+          <li><strong>What is the Twitter hash tag for the course?</strong><br>The hash tag for this course is <strong>#PR4E</strong> - you can see what students are talking<br> about for the class <a href="https://twitter.com/search?q=%23PR4E" target="_blank">Search PR4E on Twitter.</a></li><br>
+          <li><strong>Can we contact the professor?</strong><br>The professor will be nearby and monitoring the course. If problems come up,<br> there may be a need for online office hours or even the just-in-time development<br> of extra materials if a lot of students get stuck on a particular topic or idea. The<br> discussion forum is an important part of the class and your fellow students will<br> answer many questions. Teaching staff will monitor and interact in the forums as<br> well. You can follow the instructor on Twitter <a href="https://twitter.com/#!/drchuck" target="_blank">@drchuck</a> to get a sense of where<br> he is during the course.</li><br>
+          <li><strong>Can I get started early?</strong><br>You can get a copy of the book and start reading the book. All of the<br> programming assignments for the course are taken from the exercises at the<br> end of each chapter. Once the course starts you will have video lectures for<br> each week but you can subscribe to <a href="https://itunes.apple.com/us/podcast/python-for-informaticss-official/id711095516?mt=2" target="_blank">podcasts of the lecture audio</a> for the entire<br> course and start to familiarize yourself with the material. The free <a href="https://itunes.apple.com/us/book/python-for-informatics/id554638579?mt=13" target="_blank">Apple iBook</a><br> for the course includes all of the lecture videos.</li><br>
+          <li><strong>Can I reuse these course materials in my own teaching?</strong><br>You cannot re-use the materials provided on the Coursera web site, but we<br> have provided free downloadable copies of all of the course<br> materials, video, audio, PowerPoint files, and auto-grading<br> software under a Creative Commons Attribution 3.0 Unported License at the<br> <a href="http://oer.pr4e.org/" target="_blank">Open Michigan</a> web site and we encourage you to reuse, remix, and republish<br> those materials. We are particularly interested in getting the materials translated<br> into languages other than English.</li><br>
+          <li><strong>Does the instructor really have a Coursera tattoo?</strong><br>Yes. If you take the class he will probably show it to you. He gave a <a href="http://www.youtube.com/watch?v=slscHD40r78" target="_blank">TEDx talk<br> about MOOCs</a> and he showed his tattoo to the audience.</li><br>
+          <li><strong>Will I get a Statement of Accomplishment after completing this class?</strong><br>Yes. Students who successfully complete the class will receive a Statement of<br> Accomplishment signed by the instructor.</li><br>
+        </ul>
+      </section>
+      <hr>
+      <section>
+      <h2>
+         <blockquote>
+           Related Courses
+         </blockquote>
+      </h2>
+      <a href="https://www.coursera.org/course/codeyourself" target="_blank"><img src="http://img.scoop.it/P3tDNt48tz1PnBZCSJ_kpDl72eJkfbmt4t8yenImKBVvK0kTmF0xjctABnaLJIm9" alt="Code Yourself! An Introduction to Programming"></img><br>Code Yourself! An Introduction to Programming</a><br><br>
+      <a href="https://www.coursera.org/course/cryptography" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/65/a75b10352b11e48277ab05289070ba/CYBER_jkatz2.png?auto=format&dpr=1&w=300" alt="Cryptography"></img><br>Cryptography</a><br><br>
+      <a href="https://www.coursera.org/course/aprogramar" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/98/42e40065a411e4a8724138f9036c84/aprogramar2.jpg?auto=format&dpr=1&w=300" alt="¡A Programar! Una introducción a la programación"></img><br>¡A Programar! Una introducción a la programación</a><br><br>
+      <a href="https://www.coursera.org/course/kierkegaard" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/b4/dd0b26c2c7f9464fb54a52a9061579/kirkegaard.jpg?auto=format&dpr=1&w=300" alt="Søren Kierkegaard - Subjectivity, Irony and the Crisis of Modernity"></img><br>Søren Kierkegaard - Subjectivity, Irony and the Crisis of Modernity</a><br><br>
+      <a href="https://www.coursera.org/course/intorb" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/96/ab106f904a722b0bbd229d239093e7/Untitled-1.jpg?auto=format&dpr=1&w=300" alt="International Leadership and Organizational Behavior"></img><br>International Leadership and Organizational Behavior</a><br><br>
+      <a href="https://www.coursera.org/course/catmooc" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/51/6089d0352911e49a597321ba86b5f4/cover.png?auto=format&dpr=1&w=300" alt="计算机辅助翻译原理与实践 Principles and Practice of Computer-Aided Translation"></img><br>计算机辅助翻译原理与实践 Principles and Practice of Computer-Aided Translation</a><br><br>
+      <a href="https://www.coursera.org/course/ntuugp" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/c2/508440352b11e4a20a15dee8e65a23/Coursera_LOGO.002.png?auto=format&dpr=1&w=300" alt="活用希臘哲學 (Understanding the Greek Philosophy)"></img><br>活用希臘哲學 (Understanding the Greek Philosophy)</a><br><br>
+      <a href="https://www.coursera.org/course/philofrancaise" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/86/f49f6fdc73daf9dcc82c0b87f2a390/mooc_philosophie_def.jpg?auto=format&dpr=1&w=300" alt="Les problèmes métaphysiques à l’épreuve de la politique, 1943-1968"></img><br>Les problèmes métaphysiques à l’épreuve de la politique, 1943-1968</a><br><br>
+      <a href="https://www.coursera.org/course/chemhealth" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/12/559f50352911e4b89cffcbd250fdc9/ChemHealth3.png?auto=format&dpr=1&w=300" alt="Chemicals and Health"></img><br>Chemicals and Health</a><br><br>
+      <a href="https://www.coursera.org/course/ecojustice" target="_blank"><img src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/60bdd03e7011e49af23143edffad04/Courses4SM.jpg?auto=format&dpr=1&w=300" alt="Economic Growth and Distributive Justice"></img><br>Economic Growth and Distributive Justice</a><br><br>
+      </section>
+      <br>
+      <blockquote>
+           <a href="https://www.coursera.org/courses">Browse more courses</a>
+      </blockquote>
+    </article>
+    <hr>
+    <footer>
+      <h1>
+        <blockquote>
+          <a href="https://www.coursera.org/" target="_blank">coursera</a> 
+        </blockquote>
+      </h1>
+      <ul>
+        <li>COMPANY&nbsp<a href="https://www.coursera.org/about/" target="_blank">About</a>&nbsp<a href="https://www.coursera.org/about/people" target="_blank">People</a>&nbsp<a href="https://www.coursera.org/about/leadership" target="_blank">Leadership</a>&nbsp<a href="https://www.coursera.org/about/careers" target="_blank">Careers</a></li>
+        <li>FRIENDS&nbsp<a href="https://www.coursera.org/about/partners" target="_blank">Partners</a>&nbsp<a href="https://www.coursera.org/about/community" target="_blank">Community</a>&nbsp<a href="https://www.coursera.org/about/programs" target="_blank">Programs</a>&nbsp<a href="http://tech.coursera.org/app-platform" target="_blank">Develpoers</a>&nbsp<a href="https://www.coursera.org/about/translate" target="_blank">Translate</a></li>
+        <li>CONNECT&nbsp<a href="https://plus.google.com/+Coursera" target="_blank">Google+</a>&nbsp<a href="http://twitter.com/coursera" target="_blank">Twitter</a>&nbsp<a href="https://www.facebook.com/Coursera" target="_blank">Facebook</a>&nbsp<a href="http://blog.coursera.org/" target="_blank">Blog</a>&nbsp<a href="http://tech.coursera.org/" target="_blank">Tech Blog</a></li>
+        <li>MORE&nbsp<a href="https://www.coursera.org/about/terms" target="_blank">Terms</a>&nbsp<a href="https://www.coursera.org/about/privacy" target="_blank">Privacy</a>&nbsp<a href="https://learner.coursera.help/hc" target="_blank">Help</a>&nbsp<a href="https://www.coursera.org/about/press" target="_blank">Press</a>&nbsp<a href="https://www.coursera.org/about/contact" target="_blank">Contact</a></li>
+      </ul>
+      <p>
+        <blockquote>
+          Coursera provides universal access to the world’s best<br> education, partnering with top universities and<br> organizations to offer courses for anyone to take, for free.
+        </blockquote>
+      </p>
+      <div>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp© 2015 Coursera Inc. All rights reserved.</div>
+    </footer>
+  </body>
+</html>
